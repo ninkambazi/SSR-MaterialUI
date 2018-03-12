@@ -1,0 +1,67 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Home 6. Should match the snapshot 1`] = `
+<div>
+  <div>
+    <AppBar
+      onLeftIconButtonClick={[Function]}
+      showMenuIconButton={true}
+      title="RoadPiper Admin Panel"
+      zDepth={1}
+    />
+    <Drawer
+      disableSwipeToOpen={false}
+      docked={false}
+      onRequestChange={[Function]}
+      open={false}
+      openSecondary={false}
+      swipeAreaWidth={30}
+      width={null}
+      zDepth={2}
+    >
+      <MenuItem
+        anchorOrigin={
+          Object {
+            "horizontal": "right",
+            "vertical": "top",
+          }
+        }
+        checked={false}
+        desktop={false}
+        disabled={false}
+        focusState="none"
+        insetChildren={false}
+        targetOrigin={
+          Object {
+            "horizontal": "left",
+            "vertical": "top",
+          }
+        }
+      >
+        Menu Item 1
+      </MenuItem>
+      <MenuItem
+        anchorOrigin={
+          Object {
+            "horizontal": "right",
+            "vertical": "top",
+          }
+        }
+        checked={false}
+        desktop={false}
+        disabled={false}
+        focusState="none"
+        insetChildren={false}
+        targetOrigin={
+          Object {
+            "horizontal": "left",
+            "vertical": "top",
+          }
+        }
+      >
+        Menu Item 2
+      </MenuItem>
+    </Drawer>
+  </div>
+</div>
+`;

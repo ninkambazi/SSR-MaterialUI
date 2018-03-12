@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1520784604048" clover="3.2.0">
+  <project timestamp="1520784604048" name="All files">
+    <metrics statements="12" coveredstatements="10" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="3" elements="17" coveredelements="13" complexity="0" loc="12" ncloc="12" packages="2" files="2" classes="2">
+      <package name="src.client.pages">
+        <metrics statements="8" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="3"/>
+        <file name="HomePage.js" path="/Users/ritwicksundar/Desktop/ssr-materialui-testing/src/client/pages/HomePage.js">
+          <metrics statements="8" coveredstatements="6" conditionals="0" coveredconditionals="0" methods="5" coveredmethods="3"/>
+          <line num="9" count="8" type="stmt"/>
+          <line num="10" count="8" type="stmt"/>
+          <line num="13" count="8" type="stmt"/>
+          <line num="14" count="8" type="stmt"/>
+          <line num="18" count="1" type="stmt"/>
+          <line num="24" count="0" type="stmt"/>
+          <line num="30" count="9" type="stmt"/>
+          <line num="40" count="0" type="stmt"/>
+        </file>
+      </package>
+      <package name="test">
+        <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+        <file name="jestsetup.js" path="/Users/ritwicksundar/Desktop/ssr-materialui-testing/test/jestsetup.js">
+          <metrics statements="4" coveredstatements="4" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+          <line num="4" count="1" type="stmt"/>
+          <line num="8" count="1" type="stmt"/>
+          <line num="9" count="1" type="stmt"/>
+          <line num="10" count="1" type="stmt"/>
+        </file>
+      </package>
+    </metrics>
+  </project>
+</coverage>
